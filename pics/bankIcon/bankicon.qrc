@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ABOC.png</file>
+        <file>BOC.png</file>
+        <file>BOCM.png</file>
+        <file>CCB.png</file>
+        <file>CEB.png</file>
+        <file>CIB.png</file>
+        <file>CITIC.png</file>
+        <file>CMB.png</file>
+        <file>CMBC.png</file>
+        <file>GDB.png</file>
+        <file>HB.png</file>
+        <file>ICBC.png</file>
+        <file>PSBC.png</file>
+        <file>SDB.png</file>
+        <file>SPDB.png</file>
+    </qresource>
+</RCC>

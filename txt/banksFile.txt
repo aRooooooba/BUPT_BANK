@@ -1,0 +1,16 @@
+中国工商银行 102 {border-image:url(:/ICBC.png)} 00
+招商银行 308 {border-image:url(:/CMB.png)} 00
+中国农业银行 103 {border-image:url(:/ABOC.png)} 00
+中国建设银行 105 {border-image:url(:/CCB.png)} 00
+中国银行 104 {border-image:url(:/BOC.png)} 00
+中国民生银行 305 {border-image:url(:/CMBC.png)} 00
+中国光大银行 303 {border-image:url(:/CEB.png)} 00
+中信银行 302 {border-image:url(:/CITIC.png)} 00
+交通银行 301 {border-image:url(:/BOCM.png)} 00
+兴业银行 309 {border-image:url(:/CIB.png)} 00
+上海浦东发展银行 310 {border-image:url(:/SPDB.png)} 00
+华夏银行 304 {border-image:url(:/HB.png)} 00
+深圳发展银行 307 {border-image:url(:/SDB.png)} 00
+广东发展银行 306 {border-image:url(:/GDB.png)} 00
+中国邮政储蓄银行 403 {border-image:url(:/PSBC.png)} 00
+$

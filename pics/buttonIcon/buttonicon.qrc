@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>enter.png</file>
+        <file>login_exit.png</file>
+        <file>register.png</file>
+        <file>exit.png</file>
+        <file>Bank_202px_1194726_easyicon.net.png</file>
+    </qresource>
+</RCC>
